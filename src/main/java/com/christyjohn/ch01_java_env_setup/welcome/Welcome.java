@@ -1,4 +1,4 @@
-package com.christyjohn.p1.c01_java_env.welcome;
+package com.christyjohn.ch01_java_env_setup.welcome;
 
 public class Welcome {
     public static void main(String[] args) {
